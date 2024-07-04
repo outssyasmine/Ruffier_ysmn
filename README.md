@@ -1,2 +1,3 @@
 # Ruffier_ysmn
-# This is my first Github project
+# First Github project lol
+hi everyone
